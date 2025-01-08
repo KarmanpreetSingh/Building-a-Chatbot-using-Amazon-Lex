@@ -1,0 +1,6 @@
+Developing a chatbot using Amazon Lex :
+AWS Management Console: Use the Lex console to create and manage your bot.
+Define intents, which are the actions the bot can take (e.g., book a hotel room). 
+Add Utterances: Provide example phrases that users might say to invoke an intent.
+Define Slots: Gather necessary information from the user (e.g., date of booking, location).
+Integrate: Use AWS SDKs or API Gateway to connect the bot to your application.
